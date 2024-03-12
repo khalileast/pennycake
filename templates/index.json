@@ -43,105 +43,11 @@
         "label_position_y_2": 50
       }
     },
-    "slideshow": {
-      "type": "slideshow",
-      "blocks": {
-        "slide-0": {
-          "type": "image",
-          "settings": {
-            "image_link": "",
-            "color_overlay_bg": "#ffffff",
-            "overlay_opacity": 80,
-            "color_overlay_text": "#333333",
-            "text_alignment": "center",
-            "overlay_position_x": 50,
-            "overlay_position_y": 70,
-            "overlay_title": "Slideshow",
-            "enlarge_title": false,
-            "overlay_title_width": 100,
-            "styled_words": "",
-            "words_style": "stencil",
-            "highlight_words_top": 10,
-            "highlight_color": "#ffffff",
-            "styled_word_color": "#b5e0fa",
-            "overlay_text": "Use this section to welcome customers to your store, show off your images or display a promotion",
-            "enlarge_text": false,
-            "overlay_url_text_1": "",
-            "overlay_url_1": "",
-            "overlay_url_text_2": "",
-            "overlay_url_2": "",
-            "overlay_url_style": "button_1",
-            "color_label_background": "#ffffff",
-            "color_label_text": "#333333",
-            "show_chevron": true,
-            "product_id_1": "",
-            "chevron_position_1": "right",
-            "label_position_x_1": 20,
-            "label_position_y_1": 30,
-            "product_id_2": "",
-            "chevron_position_2": "right",
-            "label_position_x_2": 80,
-            "label_position_y_2": 50
-          }
-        },
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "image_link": "",
-            "color_overlay_bg": "#ffffff",
-            "overlay_opacity": 80,
-            "color_overlay_text": "#333333",
-            "text_alignment": "center",
-            "overlay_position_x": 50,
-            "overlay_position_y": 70,
-            "overlay_title": "Slideshow",
-            "enlarge_title": false,
-            "overlay_title_width": 100,
-            "styled_words": "",
-            "words_style": "stencil",
-            "highlight_words_top": 10,
-            "highlight_color": "#ffffff",
-            "styled_word_color": "#b5e0fa",
-            "overlay_text": "Use this section to welcome customers to your store, show off your images or display a promotion",
-            "enlarge_text": false,
-            "overlay_url_text_1": "",
-            "overlay_url_1": "",
-            "overlay_url_text_2": "",
-            "overlay_url_2": "",
-            "overlay_url_style": "button_1",
-            "color_label_background": "#ffffff",
-            "color_label_text": "#333333",
-            "show_chevron": true,
-            "product_id_1": "",
-            "chevron_position_1": "right",
-            "label_position_x_1": 20,
-            "label_position_y_1": 30,
-            "product_id_2": "",
-            "chevron_position_2": "right",
-            "label_position_x_2": 80,
-            "label_position_y_2": 50
-          }
-        }
-      },
-      "block_order": [
-        "slide-0",
-        "slide-1"
-      ],
-      "settings": {
-        "height": "adapt",
-        "height_desktop": 600,
-        "height_mobile": 500,
-        "mobile_text_below": true,
-        "slide_transition": "fade",
-        "slideshow_autoplay": true,
-        "slideshow_autoplay_speed": 6
-      }
-    },
     "rich-text": {
       "type": "rich-text",
       "settings": {
-        "title": "Rich text",
-        "text": "<p>Use this section to share information about your brand with your customers.<\/p>\n<p>Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "title": "OUR MISSION to make minutes more meaningful",
+        "text": "<p>we can't always make more time to spend together, <br\/>but we can change how we spend it<\/p>",
         "button_label": "",
         "button_link": "",
         "url_style": "button_1",
@@ -154,76 +60,47 @@
         "gradient_bg": ""
       }
     },
-    "multi-column": {
-      "type": "multi-column",
+    "logo_list_K3nhkQ": {
+      "type": "logo-list",
       "blocks": {
-        "column-0": {
-          "type": "text_block",
+        "logo_W4FNyp": {
+          "type": "logo",
           "settings": {
-            "enable_image": true,
-            "image_width": 100,
-            "enable_icon": false,
-            "icon": "award",
-            "icon_size": 48,
-            "icon_color": "",
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "enlarge_title": false,
-            "enlarge_text": false
+            "image_width": 160,
+            "link": "",
+            "title": ""
           }
         },
-        "column-1": {
-          "type": "text_block",
+        "logo_kbnYMk": {
+          "type": "logo",
           "settings": {
-            "enable_image": true,
-            "image_width": 100,
-            "enable_icon": false,
-            "icon": "award",
-            "icon_size": 48,
-            "icon_color": "",
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "enlarge_title": false,
-            "enlarge_text": false
+            "image_width": 160,
+            "link": "",
+            "title": ""
           }
         },
-        "column-2": {
-          "type": "text_block",
+        "logo_CDqhzw": {
+          "type": "logo",
           "settings": {
-            "enable_image": true,
-            "image_width": 100,
-            "enable_icon": false,
-            "icon": "award",
-            "icon_size": 48,
-            "icon_color": "",
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "enlarge_title": false,
-            "enlarge_text": false
+            "image_width": 160,
+            "link": "",
+            "title": ""
           }
         }
       },
       "block_order": [
-        "column-0",
-        "column-1",
-        "column-2"
+        "logo_W4FNyp",
+        "logo_kbnYMk",
+        "logo_CDqhzw"
       ],
       "settings": {
-        "title": "Multi-column",
+        "title": "Logo list",
+        "color_bg": "#dae4e6",
+        "color_title": "#333333",
+        "color_text": "#333333",
         "enlarge_title": false,
-        "text_alignment": "center",
-        "url_style": "button_1",
-        "enable_custom_colors": false,
-        "color_title": "",
-        "color_text": "",
-        "color_bg": "",
-        "gradient_bg": ""
+        "enlarge_text": false,
+        "image_opacity": 75
       }
     },
     "featured-collection": {
@@ -243,9 +120,8 @@
   },
   "order": [
     "image_with_text_overlay_4DKTR8",
-    "slideshow",
     "rich-text",
-    "multi-column",
+    "logo_list_K3nhkQ",
     "featured-collection"
   ]
 }
