@@ -1,1 +1,23 @@
-{"type":"footer","name":"Footer Group","sections":{},"order":[]}
+{
+  "type": "footer",
+  "name": "Footer Group",
+  "sections": {
+    "newsletter_7AqGhm": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "section_subtitle": "<p>Sign up now!<\/p>",
+        "color_title": "#ffffff",
+        "color_text": "#ffffff",
+        "color_bg": "#0073cb",
+        "gradient_bg": "",
+        "button_style": "button_2",
+        "enlarge_title": false,
+        "enlarge_text": false
+      }
+    }
+  },
+  "order": [
+    "newsletter_7AqGhm"
+  ]
+}
