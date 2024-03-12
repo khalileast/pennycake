@@ -1,1 +1,335 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-0":{"type":"image","settings":{"image":"","color_overlay_text":"#333333","overlay_position_x":50,"overlay_position_y":70,"overlay_title":"Slideshow","overlay_text":"Use this section to welcome customers to your store, show off your images or display a promotion","overlay_url_text_1":"","overlay_url_1":"","overlay_url_text_2":"","overlay_url_2":"","overlay_url_style":"button_1","color_label_background":"#ffffff","color_label_text":"#333333","show_chevron":true,"product_id_1":"","chevron_position_1":"right","label_position_x_1":20,"label_position_y_1":30,"product_id_2":"","chevron_position_2":"right","label_position_x_2":80,"label_position_y_2":50}},"slide-1":{"type":"image","settings":{"image":"","color_overlay_text":"#333333","overlay_position_x":50,"overlay_position_y":70,"overlay_title":"Slideshow","overlay_text":"Use this section to welcome customers to your store, show off your images or display a promotion","overlay_url_text_1":"","overlay_url_1":"","overlay_url_text_2":"","overlay_url_2":"","overlay_url_style":"button_1","color_label_background":"#ffffff","color_label_text":"#333333","show_chevron":true,"product_id_1":"","chevron_position_1":"right","label_position_x_1":20,"label_position_y_1":30,"product_id_2":"","chevron_position_2":"right","label_position_x_2":80,"label_position_y_2":50}}},"block_order":["slide-0","slide-1"],"settings":{"slideshow_autoplay":true,"slideshow_autoplay_speed":6}},"scrolling-banner":{"type":"scrolling-banner","blocks":{"scrolling-block-0":{"type":"text","settings":{"text":"Your scrolling text here","use_custom_color":false,"color":"#230051","font":"heading","link":"","use_h1":false,"stencil_all_text":false,"stencil_text":""}}},"block_order":["scrolling-block-0"],"settings":{"text_size":50,"vertical_padding":20,"full_width":true,"speed":14,"direction":"left","space":50,"color_bg":"#ecf1f2"}},"featured-collection":{"type":"featured-collection","settings":{"title":"Featured collection","link_text":"Shop now","collection":"","row_count":1}},"promo-images":{"type":"promotional-images","blocks":{"image-0":{"type":"image","settings":{"image":"","image_link":"","layout":"image_before","color_text":"#333333","title":"<p>Combine images with text and a stand-out offer<\/p>","offer":"Offer","url_text":"","url":"","url_style":"button_1"}},"image-1":{"type":"image","settings":{"image":"","image_link":"","layout":"image_after","color_text":"#333333","title":"<p>Combine images with text and a stand-out offer<\/p>","offer":"Offer","url_text":"","url":"","url_style":"button_1"}}},"block_order":["image-0","image-1"],"settings":{}},"rich-text":{"type":"rich-text","settings":{"text":"<p>Use this section to share information about your brand with your customers.<\/p>\n<p>Describe a product, share announcements, or welcome customers to your store.<\/p>"}},"standout-collection":{"type":"standout-collection","settings":{"collection":"","alternative_image":"","layout":"left","color_overlay_text":"#333333","overlay_url_text":"Shop now","color_label_background":"#ffffff","color_label_text":"#333333","product_id":"","show_chevron":true,"chevron_position":"right","label_position_x":10,"label_position_y":30}},"multi-column":{"type":"multi-column","blocks":{"column-0":{"type":"text_block","settings":{"enable_image":true,"image_width":100,"enable_icon":false,"icon":"award","icon_size":48,"icon_color":"","title":"Add a title or tagline","text":"<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>","button_label":"","button_link":"","enlarge_title":false,"enlarge_text":false}},"column-1":{"type":"text_block","settings":{"enable_image":true,"image_width":100,"enable_icon":false,"icon":"award","icon_size":48,"icon_color":"","title":"Add a title or tagline","text":"<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>","button_label":"","button_link":"","enlarge_title":false,"enlarge_text":false}},"column-2":{"type":"text_block","settings":{"enable_image":true,"image_width":100,"enable_icon":false,"icon":"award","icon_size":48,"icon_color":"","title":"Add a title or tagline","text":"<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>","button_label":"","button_link":"","enlarge_title":false,"enlarge_text":false}}},"block_order":["column-0","column-1","column-2"],"settings":{"title":"Multi-column","enlarge_title":false,"text_alignment":"center","url_style":"button_1","enable_custom_colors":false}},"image-with-text":{"type":"image-with-text","settings":{"image":"","image_link":"","image_position":"left","title":"Image with text","text":"<p>Advertise a sale! Or tell your shoppers something about yourself.<\/p>","button_label":"","button_link":"","url_style":"button_1"}},"collection-list":{"type":"collection-list","settings":{"title":"Collection list"}},"featured-blog":{"type":"featured-blog","settings":{"heading_image":"","title":"Blog posts","description":"Short description of your blog","color_overlay_text":"#333333","show_view_all":true,"overlay_url_style":"button_1","blog":"news","post_limit":3}}},"order":["slideshow","scrolling-banner","featured-collection","promo-images","rich-text","standout-collection","multi-column","image-with-text","collection-list","featured-blog"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "text_alignment": "center",
+            "overlay_position_x": 50,
+            "overlay_position_y": 70,
+            "overlay_title": "Slideshow",
+            "enlarge_title": false,
+            "overlay_title_width": 100,
+            "styled_words": "",
+            "words_style": "stencil",
+            "highlight_words_top": 10,
+            "highlight_color": "#ffffff",
+            "styled_word_color": "#b5e0fa",
+            "overlay_text": "Use this section to welcome customers to your store, show off your images or display a promotion",
+            "enlarge_text": false,
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "text_alignment": "center",
+            "overlay_position_x": 50,
+            "overlay_position_y": 70,
+            "overlay_title": "Slideshow",
+            "enlarge_title": false,
+            "overlay_title_width": 100,
+            "styled_words": "",
+            "words_style": "stencil",
+            "highlight_words_top": 10,
+            "highlight_color": "#ffffff",
+            "styled_word_color": "#b5e0fa",
+            "overlay_text": "Use this section to welcome customers to your store, show off your images or display a promotion",
+            "enlarge_text": false,
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "slide-0",
+        "slide-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "mobile_text_below": true,
+        "slide_transition": "fade",
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "settings": {
+        "title": "Rich text",
+        "text": "<p>Use this section to share information about your brand with your customers.<\/p>\n<p>Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "color_bg": "#ecf1f2",
+        "gradient_bg": ""
+      }
+    },
+    "multi-column": {
+      "type": "multi-column",
+      "blocks": {
+        "column-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 100,
+            "enable_icon": false,
+            "icon": "award",
+            "icon_size": 48,
+            "icon_color": "",
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "enlarge_title": false,
+            "enlarge_text": false
+          }
+        },
+        "column-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 100,
+            "enable_icon": false,
+            "icon": "award",
+            "icon_size": 48,
+            "icon_color": "",
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "enlarge_title": false,
+            "enlarge_text": false
+          }
+        },
+        "column-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 100,
+            "enable_icon": false,
+            "icon": "award",
+            "icon_size": 48,
+            "icon_color": "",
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "enlarge_title": false,
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "settings": {
+        "title": "Multi-column",
+        "enlarge_title": false,
+        "text_alignment": "center",
+        "url_style": "button_1",
+        "enable_custom_colors": false,
+        "color_title": "",
+        "color_text": "",
+        "color_bg": "",
+        "gradient_bg": ""
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "enlarge_title": false,
+        "link_text": "Shop now",
+        "collection": "",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 4,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    },
+    "promo-images": {
+      "type": "promotional-images",
+      "blocks": {
+        "image-0": {
+          "type": "image",
+          "settings": {
+            "image_link": "",
+            "layout": "image_before",
+            "color_text": "#333333",
+            "color_bg": "#dae4e6",
+            "gradient_bg": "",
+            "overlay_opacity": 80,
+            "title": "<p>Combine images with text and a stand-out offer<\/p>",
+            "offer": "Offer",
+            "url_text": "",
+            "url": "",
+            "url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false
+          }
+        },
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "image_link": "",
+            "layout": "image_after",
+            "color_text": "#333333",
+            "color_bg": "#dae4e6",
+            "gradient_bg": "",
+            "overlay_opacity": 80,
+            "title": "<p>Combine images with text and a stand-out offer<\/p>",
+            "offer": "Offer",
+            "url_text": "",
+            "url": "",
+            "url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "image-0",
+        "image-1"
+      ],
+      "settings": {
+      }
+    },
+    "standout-collection": {
+      "type": "standout-collection",
+      "settings": {
+        "collection": "",
+        "color_text": "#333333",
+        "color_bg": "#dae4e6",
+        "gradient_bg": "",
+        "layout": "left",
+        "show_vendor": false,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_text": "Shop now",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "overlay_position_y": 70,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "product_id": "",
+        "show_chevron": true,
+        "chevron_position": "right",
+        "label_position_x": 10,
+        "label_position_y": 30
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "settings": {
+        "image_link": "",
+        "image_size": "30",
+        "image_position": "left",
+        "title": "Image with text",
+        "text": "<p>Advertise a sale! Or tell your shoppers something about yourself.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_text": "#333333",
+        "color_bg": "#dae4e6",
+        "gradient_bg": ""
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "settings": {
+        "title": "Collection list",
+        "enlarge_title": false,
+        "collection_list": [
+
+        ],
+        "grid": 4
+      }
+    },
+    "featured-blog": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Blog posts",
+        "description": "Short description of your blog",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "show_view_all": true,
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_y": 70,
+        "blog": "news",
+        "post_limit": 3,
+        "show_author": false,
+        "show_date": true,
+        "show_tags": true,
+        "show_featured_products": true
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "rich-text",
+    "multi-column",
+    "featured-collection",
+    "promo-images",
+    "standout-collection",
+    "image-with-text",
+    "collection-list",
+    "featured-blog"
+  ]
+}
