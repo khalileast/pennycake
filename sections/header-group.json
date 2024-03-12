@@ -6,8 +6,8 @@
       "type": "announcement-bar",
       "settings": {
         "home_only_announcement_bar": false,
-        "announcement_bar_text": "Add notices for your shoppers here",
-        "announcement_bar_col": "#43467f",
+        "announcement_bar_text": "Free Standard Shipping On Orders Over $50",
+        "announcement_bar_col": "#002e5b",
         "announcement_bar_grad": "",
         "announcement_text_col": "#ffffff"
       }
