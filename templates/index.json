@@ -1,5 +1,48 @@
 {
   "sections": {
+    "image_with_text_overlay_4DKTR8": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MicrosoftTeams-image_26.webp",
+        "image_link": "",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "color_overlay_bg": "rgba(0,0,0,0)",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#ffffff",
+        "text_alignment": "align-left-desktop-only",
+        "overlay_position_x": 15,
+        "overlay_position_y": 50,
+        "mobile_text_below": false,
+        "overlay_title": "when we playfully together, everyone wins",
+        "enlarge_title": false,
+        "overlay_title_width": 100,
+        "styled_words": "playfully together",
+        "words_style": "highlight",
+        "highlight_words_top": 10,
+        "highlight_color": "#ffffff",
+        "styled_word_color": "#ffb635",
+        "overlay_text": "",
+        "enlarge_text": false,
+        "overlay_url_text_1": "Shop All",
+        "overlay_url_1": "shopify:\/\/collections",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -199,6 +242,7 @@
     }
   },
   "order": [
+    "image_with_text_overlay_4DKTR8",
     "slideshow",
     "rich-text",
     "multi-column",
