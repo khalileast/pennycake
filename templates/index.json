@@ -103,20 +103,6 @@
         "image_opacity": 75
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "enlarge_title": false,
-        "link_text": "Shop now",
-        "collection": "",
-        "show_vendor": false,
-        "enable_carousel": false,
-        "grid": 4,
-        "row_count": 1,
-        "grid_mobile": "2"
-      }
-    },
     "logo_list_EFNKW7": {
       "type": "logo-list",
       "blocks": {
@@ -165,7 +151,6 @@
     "image_with_text_overlay_4DKTR8",
     "rich-text",
     "logo_list_K3nhkQ",
-    "featured-collection",
     "logo_list_EFNKW7"
   ]
 }
