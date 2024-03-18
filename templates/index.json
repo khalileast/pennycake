@@ -204,7 +204,7 @@
       ],
       "settings": {
         "title": "as seen in",
-        "color_bg": "#dae4e6",
+        "color_bg": "rgba(0,0,0,0)",
         "color_title": "#333333",
         "color_text": "#333333",
         "enlarge_title": false,
