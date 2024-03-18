@@ -231,15 +231,6 @@
             "top_text": "Customer Support"
           }
         },
-        "logo_BVzhzL": {
-          "type": "logo",
-          "settings": {
-            "image_width": 160,
-            "link": "",
-            "title": "",
-            "top_text": ""
-          }
-        },
         "logo_Kx9cYH": {
           "type": "logo",
           "settings": {
@@ -261,7 +252,6 @@
       },
       "block_order": [
         "logo_A9jjxy",
-        "logo_BVzhzL",
         "logo_Kx9cYH",
         "logo_xrFGTf"
       ],
