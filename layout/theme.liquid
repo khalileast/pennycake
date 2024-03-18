@@ -31,6 +31,31 @@
   -%}
 
   <style>
+
+      /* GT Maru Regular */
+  @font-face {
+    font-family: 'GT Maru Regular';
+    src: url('https://cdn.shopify.com/s/files/1/0692/4052/0939/files/GT-Maru-Regular.otf?v=1710260610') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  /* GT Maru Bold */
+  @font-face {
+    font-family: 'GT Maru Bold';
+    src: url('https://cdn.shopify.com/s/files/1/0692/4052/0939/files/GT-Maru-Bold.otf?v=1710260611') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  /* Krana Fat B */
+  @font-face {
+    font-family: 'Krana Fat B';
+    src: url('https://cdn.shopify.com/s/files/1/0692/4052/0939/files/Krana-Fat-B.otf?v=1710260610') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
     {{ logo_font | font_face: font_display: 'fallback' }}
     {{ heading_font | font_face: font_display: 'fallback' }}
     {{ base_font | font_face: font_display: 'fallback' }}

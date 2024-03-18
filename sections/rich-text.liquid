@@ -11,10 +11,13 @@
   {% endstyle %}
   <div class="page-width rich-text-section large-section global-border-radius" data-cc-animate>
     <div class="{% if section.settings.full_width == false %}reading-width{% endif %} text-center">
+      {% if section.settings.sub_title != blank %}
+        <h3 class="{% if section.settings.enlarge_title %}giant-title {% else %}large-title {% endif %} rich-text-section__title">{{ section.settings.sub_title | escape }}</h3>
+      {% endif %}
       {% if section.settings.title != blank %}
         <h2 class="{% if section.settings.enlarge_title %}giant-title {% else %}large-title {% endif %} rich-text-section__title">{{ section.settings.title | escape }}</h2>
       {% endif %}
-
+      
       {% if section.settings.text != blank %}
         <div class="rte {% if section.settings.enlarge_text %}large-text{% endif %}">
           {{ section.settings.text }}
@@ -46,6 +49,12 @@
     "tag": "section",
     "class": "section-rich-text",
     "settings": [
+      {
+        "type": "text",
+        "id": "sub_title",
+        "label": "Top Heading",
+        "default": "Top Heading"
+      },
       {
         "type": "text",
         "id": "title",

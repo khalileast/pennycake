@@ -1,0 +1,44 @@
+{%- assign background_image = section.settings.background_image -%}
+
+{% style %}
+.full-height-image {
+  min-height: 100vh;
+  background-image: url({{ background_image | image_url }});
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+@media(max-width: 1050px) {
+  .full-height-image  {
+    min-height: 80vh;
+
+  }
+
+}
+{% endstyle %}
+
+<div class="full-height-image">
+
+</div>
+
+  
+  {% schema %}
+    {
+    "name": "Full height image",
+    "settings": [
+      {
+        "type": "image_picker",
+        "label": "Image Picker 0",
+        "id": "background_image"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Full height image"
+      }
+    ]
+  }  
+  {% endschema %}
+  
+
+  

@@ -62,7 +62,11 @@
             </div>
           {%- endif -%}
         </div>
-
+        {%- if block.settings.top_text != blank -%}
+          <div class="logo-list__logo-text logo-text_top">
+            {{ block.settings.top_text }}
+          </div>
+        {%  endif %}
         {%- if block.settings.title != blank -%}
           <div class="logo-list__logo-text {% if section.settings.enlarge_text %} large-text{% endif %}">
             {{ block.settings.title }}
@@ -74,7 +78,6 @@
       {%- else -%}
        </a>
       {%- endunless -%}
-
       {% endfor %}
     </div>
   </div>
@@ -163,6 +166,12 @@
           "type": "text",
           "id": "title",
           "label": "Text",
+          "info": "Optional"
+        },
+        {
+          "type": "text",
+          "id": "top_text",
+          "label": "Top Text",
           "info": "Optional"
         }
       ]
