@@ -1,0 +1,49 @@
+{% style %}
+.section--{{ section.id }} {
+  padding-top: {{ section.settings.padding_top }}px;
+  padding-bottom: {{ section.settings.padding_bottom }}px;
+}
+.divider img {
+  min-height: 100px;
+}
+{% endstyle %}
+
+  <div class="section--{{ section.id }} divider">
+    <img src="https://cdn.shopify.com/s/files/1/0692/4052/0939/files/dk-blue-squiggles_2x_2.webp?v=1710784537" alt="">
+  </div>
+  
+  {% schema %}
+    {
+    "name": "Section divider",
+    "settings": [
+      {
+        "type": "range",
+        "id": "padding_top",
+        "label": "Padding Top",
+        "min": 0,
+        "max": 80,
+        "step": 5,
+        "default": 10,
+        "unit": "px"
+      },
+      {
+        "type": "range",
+        "id": "padding_bottom",
+        "label": "Padding Bottom",
+        "min": 0,
+        "max": 80,
+        "step": 5,
+        "default": 10,
+        "unit": "px"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Section divider"
+      }
+    ]
+  }  
+  {% endschema %}
+  
+
+  

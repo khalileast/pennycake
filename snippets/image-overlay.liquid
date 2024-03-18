@@ -41,7 +41,7 @@
       </a>
     {% endif %}
     {% if title != blank %}
-    <{{ title_tag }} class="overlay-title{% if styled_words != blank and words_style == "highlight" %} overlay-title--highlight{% endif %}{% if enlarge_title %}{% if extra_large_text %} biggest-title {% else %} giant-title{% endif %}
+    <{{ title_tag }} class="overlay-title{% if styled_words != blank and words_style == "highlight" %} overlay-title--highlight {% else %} overlay-title {% endif %}{% if enlarge_title %}{% if extra_large_text %} biggest-title {% else %} giant-title{% endif %}
     {% else %} large-title{% endif %}{% if title_width %} overlay-title--width{% endif %}{% if text_alignment %} {{ text_alignment }}{% endif %}">{{ title }}</{{ title_tag }}>
     {% endif %}
     {% if text != blank %}
