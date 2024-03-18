@@ -192,6 +192,13 @@
         "enlarge_text": false,
         "image_opacity": 75
       }
+    },
+    "section_divider_fmen46": {
+      "type": "section-divider",
+      "settings": {
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
     }
   },
   "order": [
@@ -202,6 +209,7 @@
     "section_divider_zyNBaR",
     "full_height_image_eqTyYc",
     "section_divider_LjaG3M",
-    "logo_list_mMe8Di"
+    "logo_list_mMe8Di",
+    "section_divider_fmen46"
   ]
 }
