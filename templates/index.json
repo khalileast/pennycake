@@ -66,32 +66,35 @@
         "logo_W4FNyp": {
           "type": "logo",
           "settings": {
+            "image": "shopify:\/\/shop_images\/asset-4.webp",
             "image_width": 160,
             "link": "",
-            "title": "test"
+            "title": "a Chick-fil-A original brand"
           }
         },
         "logo_kbnYMk": {
           "type": "logo",
           "settings": {
+            "image": "shopify:\/\/shop_images\/asset-5.webp",
             "image_width": 160,
             "link": "",
-            "title": ""
+            "title": "created with child & family experts"
           }
         },
-        "logo_CDqhzw": {
+        "logo_JVr3xg": {
           "type": "logo",
           "settings": {
+            "image": "shopify:\/\/shop_images\/asset-6.webp",
             "image_width": 160,
             "link": "",
-            "title": ""
+            "title": "games for the whole family"
           }
         }
       },
       "block_order": [
         "logo_W4FNyp",
         "logo_kbnYMk",
-        "logo_CDqhzw"
+        "logo_JVr3xg"
       ],
       "settings": {
         "title": "Logo list",
