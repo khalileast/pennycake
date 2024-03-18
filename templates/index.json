@@ -218,6 +218,62 @@
         "padding_top": 10,
         "padding_bottom": 10
       }
+    },
+    "logo_list_bqktjK": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_A9jjxy": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "title": "888-281-4267",
+            "top_text": "Customer Support"
+          }
+        },
+        "logo_BVzhzL": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "title": "",
+            "top_text": ""
+          }
+        },
+        "logo_Kx9cYH": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "title": "team@pennycake.com",
+            "top_text": "Email"
+          }
+        },
+        "logo_xrFGTf": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "title": "Tracking",
+            "top_text": "My Orders"
+          }
+        }
+      },
+      "block_order": [
+        "logo_A9jjxy",
+        "logo_BVzhzL",
+        "logo_Kx9cYH",
+        "logo_xrFGTf"
+      ],
+      "settings": {
+        "title": "",
+        "color_bg": "#f2f1ed",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "image_opacity": 75
+      }
     }
   },
   "order": [
@@ -230,6 +286,7 @@
     "section_divider_LjaG3M",
     "logo_list_mMe8Di",
     "1710786938de9dec5c",
-    "section_divider_mgjiPd"
+    "section_divider_mgjiPd",
+    "logo_list_bqktjK"
   ]
 }
