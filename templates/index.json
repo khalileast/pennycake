@@ -46,7 +46,8 @@
     "rich-text": {
       "type": "rich-text",
       "settings": {
-        "title": "OUR MISSION to make minutes more meaningful",
+        "sub_title": "OUR MISSION",
+        "title": "to make minutes more meaningful",
         "text": "<p>we can't always make more time to spend together, <br\/>but we can change how we spend it<\/p>",
         "button_label": "",
         "button_link": "",
@@ -69,7 +70,8 @@
             "image": "shopify:\/\/shop_images\/asset-4.webp",
             "image_width": 160,
             "link": "",
-            "title": "a Chick-fil-A original brand"
+            "title": "a Chick-fil-A original brand",
+            "top_text": ""
           }
         },
         "logo_kbnYMk": {
@@ -78,7 +80,8 @@
             "image": "shopify:\/\/shop_images\/asset-5.webp",
             "image_width": 160,
             "link": "",
-            "title": "created with child & family experts"
+            "title": "created with child & family experts",
+            "top_text": ""
           }
         },
         "logo_JVr3xg": {
@@ -87,7 +90,8 @@
             "image": "shopify:\/\/shop_images\/asset-6.webp",
             "image_width": 160,
             "link": "",
-            "title": "games for the whole family"
+            "title": "games for the whole family",
+            "top_text": ""
           }
         }
       },
