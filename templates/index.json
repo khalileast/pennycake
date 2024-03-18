@@ -55,8 +55,8 @@
         "enlarge_title": false,
         "enlarge_text": false,
         "full_width": false,
-        "color_title": "#333333",
-        "color_text": "#333333",
+        "color_title": "#002e5b",
+        "color_text": "#002e5b",
         "color_bg": "#ecf1f2",
         "gradient_bg": ""
       }
@@ -104,7 +104,7 @@
         "title": "",
         "color_bg": "#ecf1f2",
         "color_title": "#333333",
-        "color_text": "#333333",
+        "color_text": "#002e5b",
         "enlarge_title": false,
         "enlarge_text": true,
         "image_opacity": 100
