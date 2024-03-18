@@ -143,6 +143,55 @@
         "padding_top": 10,
         "padding_bottom": 10
       }
+    },
+    "logo_list_mMe8Di": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_RQd9R6": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CFA-ScriptLogo_350x96_1.webp",
+            "image_width": 160,
+            "link": "",
+            "title": "",
+            "top_text": ""
+          }
+        },
+        "logo_PtKixT": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CAMP_Logo_Green_155x96_606f2f4b-b09d-4e9d-acb0-74cb8e24b4d3.webp",
+            "image_width": 160,
+            "link": "",
+            "title": "",
+            "top_text": ""
+          }
+        },
+        "logo_thMMmB": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInLogo_Forbes_362x90_NEW.webp",
+            "image_width": 280,
+            "link": "",
+            "title": "",
+            "top_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_RQd9R6",
+        "logo_PtKixT",
+        "logo_thMMmB"
+      ],
+      "settings": {
+        "title": "as seen in",
+        "color_bg": "#dae4e6",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "image_opacity": 75
+      }
     }
   },
   "order": [
@@ -152,6 +201,7 @@
     "featured_collection_k7hnJa",
     "section_divider_zyNBaR",
     "full_height_image_eqTyYc",
-    "section_divider_LjaG3M"
+    "section_divider_LjaG3M",
+    "logo_list_mMe8Di"
   ]
 }
