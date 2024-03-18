@@ -251,22 +251,12 @@
             "top_text": "My Orders",
             "title": "Tracking"
           }
-        },
-        "logo_EenrJb": {
-          "type": "logo",
-          "settings": {
-            "image_width": 160,
-            "link": "",
-            "top_text": "",
-            "title": ""
-          }
         }
       },
       "block_order": [
         "logo_A9jjxy",
         "logo_Kx9cYH",
-        "logo_xrFGTf",
-        "logo_EenrJb"
+        "logo_xrFGTf"
       ],
       "settings": {
         "title": "",
