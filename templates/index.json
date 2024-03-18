@@ -112,7 +112,7 @@
         "title": "our most popular games",
         "enlarge_title": true,
         "link_text": "shop all",
-        "collection": "",
+        "collection": "frontpage",
         "show_vendor": false,
         "enable_carousel": false,
         "grid": 3,
