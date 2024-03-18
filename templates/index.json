@@ -102,11 +102,26 @@
         "enlarge_text": false,
         "image_opacity": 75
       }
+    },
+    "featured_collection_k7hnJa": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "our most popular games",
+        "enlarge_title": true,
+        "link_text": "shop all",
+        "collection": "",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 3,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
     }
   },
   "order": [
     "image_with_text_overlay_4DKTR8",
     "rich-text",
-    "logo_list_K3nhkQ"
+    "logo_list_K3nhkQ",
+    "featured_collection_k7hnJa"
   ]
 }
