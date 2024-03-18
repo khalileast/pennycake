@@ -123,12 +123,35 @@
         "row_count": 1,
         "grid_mobile": "2"
       }
+    },
+    "section_divider_zyNBaR": {
+      "type": "section-divider",
+      "settings": {
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
+    },
+    "full_height_image_eqTyYc": {
+      "type": "full-height-image",
+      "settings": {
+        "background_image": "shopify:\/\/shop_images\/Pennycake_ProductFamily_2_2800x1377_f8f6a882-2134-41ed-a2fb-5ea35eb775c1.webp"
+      }
+    },
+    "section_divider_LjaG3M": {
+      "type": "section-divider",
+      "settings": {
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
     }
   },
   "order": [
     "image_with_text_overlay_4DKTR8",
     "rich-text",
     "logo_list_K3nhkQ",
-    "featured_collection_k7hnJa"
+    "featured_collection_k7hnJa",
+    "section_divider_zyNBaR",
+    "full_height_image_eqTyYc",
+    "section_divider_LjaG3M"
   ]
 }
