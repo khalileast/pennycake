@@ -70,8 +70,8 @@
             "image": "shopify:\/\/shop_images\/asset-4.webp",
             "image_width": 160,
             "link": "",
-            "title": "a Chick-fil-A original brand",
-            "top_text": ""
+            "top_text": "",
+            "title": "a Chick-fil-A original brand"
           }
         },
         "logo_kbnYMk": {
@@ -80,8 +80,8 @@
             "image": "shopify:\/\/shop_images\/asset-5.webp",
             "image_width": 160,
             "link": "",
-            "title": "created with child & family experts",
-            "top_text": ""
+            "top_text": "",
+            "title": "created with child & family experts"
           }
         },
         "logo_JVr3xg": {
@@ -90,8 +90,8 @@
             "image": "shopify:\/\/shop_images\/asset-6.webp",
             "image_width": 160,
             "link": "",
-            "title": "games for the whole family",
-            "top_text": ""
+            "top_text": "",
+            "title": "games for the whole family"
           }
         }
       },
@@ -153,8 +153,8 @@
             "image": "shopify:\/\/shop_images\/CFA-ScriptLogo_350x96_1.webp",
             "image_width": 160,
             "link": "",
-            "title": "",
-            "top_text": ""
+            "top_text": "",
+            "title": ""
           }
         },
         "logo_PtKixT": {
@@ -163,8 +163,8 @@
             "image": "shopify:\/\/shop_images\/CAMP_Logo_Green_155x96_606f2f4b-b09d-4e9d-acb0-74cb8e24b4d3.webp",
             "image_width": 160,
             "link": "",
-            "title": "",
-            "top_text": ""
+            "top_text": "",
+            "title": ""
           }
         },
         "logo_thMMmB": {
@@ -173,8 +173,8 @@
             "image": "shopify:\/\/shop_images\/AsSeenInLogo_Forbes_362x90_NEW.webp",
             "image_width": 200,
             "link": "",
-            "title": "",
-            "top_text": ""
+            "top_text": "",
+            "title": ""
           }
         }
       },
@@ -225,35 +225,48 @@
         "logo_A9jjxy": {
           "type": "logo",
           "settings": {
+            "image": "shopify:\/\/shop_images\/phone.svg",
             "image_width": 160,
             "link": "",
-            "title": "888-281-4267",
-            "top_text": "Customer Support"
+            "top_text": "Customer Support",
+            "title": "888-281-4267"
           }
         },
         "logo_Kx9cYH": {
           "type": "logo",
           "settings": {
+            "image": "shopify:\/\/shop_images\/mail.svg",
             "image_width": 160,
             "link": "",
-            "title": "team@pennycake.com",
-            "top_text": "Email"
+            "top_text": "Email",
+            "title": "team@pennycake.com"
           }
         },
         "logo_xrFGTf": {
           "type": "logo",
           "settings": {
+            "image": "shopify:\/\/shop_images\/direction.svg",
             "image_width": 160,
             "link": "",
-            "title": "Tracking",
-            "top_text": "My Orders"
+            "top_text": "My Orders",
+            "title": "Tracking"
+          }
+        },
+        "logo_EenrJb": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "top_text": "",
+            "title": ""
           }
         }
       },
       "block_order": [
         "logo_A9jjxy",
         "logo_Kx9cYH",
-        "logo_xrFGTf"
+        "logo_xrFGTf",
+        "logo_EenrJb"
       ],
       "settings": {
         "title": "",
